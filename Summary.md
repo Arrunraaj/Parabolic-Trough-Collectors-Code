@@ -48,8 +48,8 @@ The project demonstrates the potential of **Concentrated Solar Thermal Energy fo
 
 ## Project Files
 
-* `CP5 G01.ipynb` – Python modelling and calculations
-* `CP5 G01.pdf` – Detailed project report
+* `PTC.ipynb` – Python modelling and calculations
+* `PTC.pdf` – Detailed project report
 
 **Course:** EN630
 **Department:** Energy Science and Engineering, IIT Bombay
