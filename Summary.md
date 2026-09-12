@@ -27,7 +27,7 @@ The study covers:
 | Wood savings           |   **524 tonnes/year** |
 | CO₂ reduction          |  **~917 tonnes/year** |
 | Estimated investment   |       **₹6.72 crore** |
-| Annual savings         |   **₹71.8 lakh/year** |
+| Annual savings         |   **₹17.82 lakh/year** |
 | Simple payback         |         **~38 years** |
 
 ## Payback Period
