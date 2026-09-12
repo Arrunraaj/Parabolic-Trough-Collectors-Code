@@ -48,7 +48,7 @@ The project demonstrates the potential of **Concentrated Solar Thermal Energy fo
 
 ## Project Files
 
-* `PTC.ipynb` – Python modelling and calculations
+* `[PTC.ipynb](https://github.com/Arrunraaj/Parabolic-Trough-Collectors-Code/blob/main/PTC.ipynb)` – Python modelling and calculations
 * `PTC.pdf` – Detailed project report
 
 **Course:** EN630
