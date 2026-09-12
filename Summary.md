@@ -30,6 +30,10 @@ The study covers:
 | Annual savings         |   **₹71.8 lakh/year** |
 | Simple payback         |         **~38 years** |
 
+## Payback Period
+
+The 38-year payback period is mainly attributed to the low cost of wood used in the existing heating system. While the PTC system provides substantial fuel savings and environmental benefits, the resulting monetary savings are relatively low compared with the high initial capital investment.
+
 ## Technology
 
 **Solar radiation → Parabolic Trough Collector → Therminol VP-1 → Thermal Storage/Heat Exchanger → Stenter Machine**
@@ -49,7 +53,7 @@ The project demonstrates the potential of **Concentrated Solar Thermal Energy fo
 ## Project Files
 
 * [PTC.ipynb](https://github.com/Arrunraaj/Parabolic-Trough-Collectors-Code/blob/main/PTC.ipynb) – Python modelling and calculations
-* [PTC.pdf](https://github.com/Arrunraaj/Parabolic-Trough-Collectors-Code/blob/main/PTC.ipynb) – Detailed project report
+* [PTC.pdf](https://github.com/Arrunraaj/Parabolic-Trough-Collectors-Code/blob/main/PTC.pdf) – Detailed project report
 
 **Course:** EN630
 **Department:** Energy Science and Engineering, IIT Bombay
